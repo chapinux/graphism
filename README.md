@@ -1,7 +1,7 @@
 # graphism
 random stuff tests and doodlings
 
-#logo of ISCPIF
+# logo of ISCPIF
 
 Reboot of ISCPIF logo with wolor swapping and perspective forcing via adges opacity .
 
