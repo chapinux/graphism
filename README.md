@@ -9,5 +9,5 @@ Animated inside SVG using animate tags of the SMIL  specification
 
 
 
-![iscpif logo](https://chapinux.github.com/graphism/logo_isc_colorswap_perspswap.svg)
+![iscpif logo](./logo_isc_colorswap_perspswap.svg)
 
