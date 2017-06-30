@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 559.79305 327.14201"
+   height="92.326744mm"
+   width="157.98604mm"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cubes_rotate.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview4366"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="6.1490508"
+     inkscape:cx="198.36238"
+     inkscape:cy="241.08912"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#916f6f;fill-opacity:1;stroke:#483737;stroke-width:1.54499996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="bord6"
+     d="m 281.63639,325.64531 -93.64228,-50.106 -93.642288,50.106 90.214208,-56.04361 3.42808,-106.14959 3.42807,106.14959 z">
+    <animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="0 188.53  271.94"
+       to="60  188.53  271.94"
+       begin="step5.end"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step6" />
+<animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="60 188.53  271.94"
+       to="120  188.53  271.94"
+       begin="step5.end+2s"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step66" />
+
+
+
+
+  </path>
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#916f6f;fill-opacity:1;stroke:#483737;stroke-width:1.54499996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="bord7"
+     d="M 187.69218,161.51792 94.049902,211.6239 0.40761225,161.51792 90.621822,217.56151 l 3.42808,106.14961 3.42807,-106.14961 z">
+    <animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="0 94.35  216.89"
+       to="60  94.35  216.89"
+       begin="step6.end"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step7" />
+ 
+
+<animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="60 94.35  216.89"
+       to="120  94.35  216.89"
+       begin="step6.end +2s"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step77" />
+ 
+
+
+  </path>
+  <path
+     style="opacity:1;fill:#916f6f;fill-opacity:1;stroke:#483737;stroke-width:1.54499996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="bord8"
+     d="M 188.70236,164.55148 95.060074,114.44548 1.4177862,164.55148 91.631996,108.50787 95.060074,2.3582797 98.488151,108.50787 Z"
+     inkscape:connector-curvature="0">
+    <animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="0 95.04  110.88"
+       to="60  95.04  110.88"
+       begin="step7.end"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step8" />
+
+    <animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="60 95.04  110.88"
+       to="120  95.04  110.88"
+       begin="step7.end+2s"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step88" />
+
+
+
+  </path>
+  <path
+     style="opacity:1;fill:#916f6f;fill-opacity:1;stroke:#483737;stroke-width:1.54499996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="bord2"
+     d="m 374.57043,164.55148 -93.64229,-50.106 -93.64229,50.106 90.21421,-56.0436 3.42808,-106.1496003 3.42808,106.1496003 z"
+     inkscape:connector-curvature="0">
+    <animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="0 278.53  109.1"
+       to="60  278.53  109.1"
+       begin="step4.end"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step5" />
+
+
+<animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="60 278.53  109.1"
+       to="120  278.53  109.1"
+       begin="step4.end+2s"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step55" />
+
+  </path>
+  <path
+     style="opacity:1;fill:#916f6f;fill-opacity:1;stroke:#483737;stroke-width:1.54499996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="bord9"
+     d="M 281.63639,0.99414973 187.99411,51.10015 94.351822,0.99414973 184.56603,57.03775 l 3.42808,106.1496 3.42807,-106.1496 z"
+     inkscape:connector-curvature="0" >
+
+<animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="0 188.53  54.88"
+       to="60  188.53  54.88"
+       begin="step8.end"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step9" />
+
+
+
+<animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="60 188.53  54.88"
+       to="120  188.53  54.88"
+       begin="step8.end+2s"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step99" />
+
+
+   </path>
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#916f6f;fill-opacity:1;stroke:#483737;stroke-width:1.54499996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="bord3"
+     d="m 464.94594,325.64531 -93.64229,-50.10599 -93.64229,50.10599 90.21421,-56.04359 3.42808,-106.14961 3.42808,106.14961 z">
+    <animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="0 371.20  271.84"
+       to="60  371.20  271.84"
+       begin="step2.end"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step3" />
+<animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="60 371.20  271.84"
+       to="120  371.20  271.84"
+       begin="step2.end+2s"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step33" />
+
+
+  </path>
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#916f6f;fill-opacity:1;stroke:#483737;stroke-width:1.54499996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="bord4"
+     d="m 559.38539,164.55148 -93.64229,-50.106 -93.64229,50.106 90.21421,-56.0436 3.42808,-106.1496003 3.42808,106.1496003 z">
+    <animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="0 466.19  109.1"
+       to="60  466.19  109.1"
+       begin="step1.end"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step2" />
+<animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="60 466.19  109.1"
+       to="120  466.19  109.1"
+       begin="step1.end+2s"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step22" />
+
+
+  </path>
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#916f6f;fill-opacity:1;stroke:#483737;stroke-width:1.54499996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="bord5"
+     d="m 557.87996,161.51792 -93.64229,50.10599 -93.64229,-50.10599 90.21421,56.04361 3.42808,106.14959 3.42808,-106.1496 z">
+    <animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="0 466.19  212.64"
+       to="60  466.19  212.64"
+       begin="step3.end"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step4" />
+<animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="60 466.19  212.64"
+       to="120  466.19  212.64"
+       begin="step3.end+2s"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       id="step44" />
+
+
+
+  </path>
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#916f6f;fill-opacity:1;stroke:#483737;stroke-width:1.54499996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="bord1"
+     d="m 372.16566,161.51792 -93.64228,50.106 -93.64229,-50.106 90.21421,56.0436 3.42808,106.1496 3.42807,-106.1496 z">
+    <animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="0 278.53  216.89"
+       to="60  278.53 216.89"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       begin="0s"
+       id="step1" />
+<animateTransform
+       attributeType="xml"
+       attributeName="transform"
+       type="rotate"
+       from="60 278.53  216.89"
+       to="120  278.53 216.89"
+       dur="0.2s"
+       repeatCount="1"
+       restart="always"
+       fill="freeze"
+       begin="step1.begin+2s"
+       id="step11" />
+
+
+  </path>
+</svg>
