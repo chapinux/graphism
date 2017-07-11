@@ -354,3 +354,4 @@
 
   </path>
 </svg>
+<button onclick="document.getElementById('step1').beginElement();">Click Me!</button>
